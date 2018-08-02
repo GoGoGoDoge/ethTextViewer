@@ -16,3 +16,8 @@ web3
 ### Requirement in client side
 1. Use Chrome browser
 2. Must install Metamask and make it run before visiting the webpage
+
+### An example here
+http://207.148.89.27:9099/
+
+The server is really slows as I am not rich.
