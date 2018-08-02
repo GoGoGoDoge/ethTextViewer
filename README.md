@@ -13,3 +13,6 @@ web3
 2. npm install
 3. npm run dev
 
+### Requirement in client side
+1. Use Chrome browser
+2. Must install Metamask and make it run before visiting the webpage
