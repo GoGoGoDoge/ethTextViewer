@@ -19,5 +19,6 @@ web3
 
 ### An example here
 http://207.148.89.27:9099/
+You have to fully wait for the server to load up the page before you can send HashTx request as it needs to connect to a ethereum node.
 
 The server is really slows as I am not rich.
