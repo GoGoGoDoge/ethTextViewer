@@ -57,7 +57,7 @@ class ArticleIndex extends Component {
     console.log(this.props.transaction);
     return (
       <Layout>
-        <h3>Ethereum Themis</h3>
+        <h3>Ethereum Themis (Must login Metamask)</h3>
         <Form onSubmit={this.onSubmit}>
           <Form.Field>
             <label>
@@ -78,7 +78,7 @@ class ArticleIndex extends Component {
             Send!
           </Button>
         </Form>
-        
+
         <br />
 
         <Button.Group>
